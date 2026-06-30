@@ -34,29 +34,21 @@
 
 <br>
 
-## 📊 GitHub Stats
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chaudharymanish6930&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharymanish6930&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p> -->
+## 📊 GitHub Statistics
+
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chaudharymanish6930&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharymanish6930&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaudharymanish6930&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharymanish6930&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=chaudharymanish6930&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharymanish6930&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaudharymanish6930&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-</p>
-
-<br>
 
 ## 🔗 Contact
 
