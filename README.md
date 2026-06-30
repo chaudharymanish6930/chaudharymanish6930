@@ -6,14 +6,6 @@
 
 <br>
 
-## 🏅 Achievements
-
-- 🏆 [Achievement 1 — e.g. "Developer of **ProjectName** with **X** users"]
-- 🥈 [Achievement 2 — e.g. "Winner of **Hackathon Name** 2026"]
-- 📜 [Achievement 3 — e.g. "Open-source contributor to **RepoName**"]
-
-<br>
-
 ## 🛠️ Skills
 
 ### Softwares
@@ -26,7 +18,7 @@
 
 ### Languages & Tools
 
-![JAVA](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JAVA](https://imgs.search.brave.com/NlNK5uV9ZXTddHcmTbEpeOTNZEZku5BXvIjiWnSPDkY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/dGhlbmV3c3RhY2su/aW8vbWVkaWEvMjAy/NC8wMy9kNTI0MGFm/Zi1qYXZhLWhvcnot/Y2xyLTEtMTAyNHg2/NzItY29weS5wbmc)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -42,23 +34,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaudharymanish6930&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chaudharymanish6930&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=chaudharymanish6930&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=chaudharymanish6930&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </p>
 
 <br>
 
 ## 🔗 Contact
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/me.chaudhary)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.developer4u@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me.chaudharymanish/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-choudhary-25ab9332a/)
